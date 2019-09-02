@@ -439,3 +439,60 @@ Other
 	Eddie Bauer rewards
 	Columbia rewards
 Kohls cash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+• Need to buy
+	• Bicycle lights
+		○ Headlights
+		○ Tail lights
+	• Bicycle chain lock
+	• Water bottle cages
+	• Bike lock
+	• Bear spray
+	• Bear bells
+	• Bike bells
+	• Bicycle shorts
+	• Mountain bike bell
+	• Go pro bike mount
+		○ Check Current Mounts
+	• Hiking boots
+		○ Brian
+		○ Sherri
+• Todo:
+	• Install computer mount on bikes
+	• Install bells on bikes
+	• Install lights on bikes
+	• Install bottle cages on bikes
+	• Bike bags
+	• Jerseys with pockets for brian
+	• Bike Shorts for sherri
+	• Bike racks
+	• Bike fenders - sherri
+	• New compact camera
+		○ Long battery life
+			§ Or small easy to charge/swap/cheap batteries
+		○ Big zoom
+		○ Ability to shoot without display coming on to drain battery
+		○ Good memory card format
+	• Trekking poles
+		○ 2 pair
+		○ Monopod attachment on top
