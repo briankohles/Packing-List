@@ -1,0 +1,43 @@
+# Packing List
+
+  ## Activity - Kayaking:
+		- [ ] Paddling Clothes
+			- [ ] Rashguard Shirt
+			- [ ] Swim trunks
+			- [ ] Convertible pants
+			- [ ] Water Shoes
+			- [ ] Hat
+			- [ ] Sunglasses
+		- [ ] Gear
+			- [ ] Bilge Pump
+			- [ ] Sponge
+			- [ ] Paddle Float
+			- [ ] Dry Bag
+			- [ ] PFD
+		- [ ] After Paddling
+			- [ ] Towel
+			- [ ] Shirt
+			- [ ] Shorts
+			- [ ] Socks
+			- [ ] Underwear
+			- [ ] Body Wipes
+			- [ ] Deodorant
+			- [ ] Large Towel for changing
+		- [ ] Bilge Pump
+		- [ ] Dry bag
+		- [ ] Kayak Pants
+		- [ ] PFD
+		- [ ] Paddle Float
+		- [ ] Phone Case
+		- [ ] Rash Guard Shirt
+		- [ ] River Knife
+		- [ ] Sponge
+		- [ ] Whistle
+    - [ ] Change of Cloths - after
+    - [ ] Hat - Wide Brimmed
+    - [ ] Lip Balm
+    - [ ] Rash Guard Shirt
+    - [ ] Sunscreen
+    - [ ] Swim Trunks/Bathing Suit
+    - [ ] Towel - after
+    - [ ] Water Shoes

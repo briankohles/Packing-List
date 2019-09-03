@@ -1,0 +1,45 @@
+# Packing List
+
+  ## Activity - Camping
+    - [ ] Bowl/Plate/Utinsels/Cup
+    - [ ] Camp Pillow
+    - [ ] Camp Chair
+    - [ ] Chocolate
+    - [ ] Firewood
+    - [ ] Graham Crackers
+    - [ ] Marshmallows
+    - [ ] Sleeping Bag
+    - [ ] Sleeping Pad
+    - [ ] Tent
+    - [ ] Tent Light
+    - [ ] Headlamp
+			- [ ] Spare Batteries
+    - [ ] Pack towel and washcloth (bandana works as washcloth)
+    - [ ] Hammock
+    - ** Stuff for the car **
+      - [ ] Cooler
+      - [ ] Water
+      - [ ] adult beverages
+      - [ ] change of clothes/shoes
+    - ** Food **
+      - [ ] Cooler
+      - [ ] Breakfast
+      - [ ] Lunch
+      - [ ] Dinner
+      - [ ] Hard Boiled Eggs
+      - [ ] Bagels
+      - [ ] Granola & breakfast bars
+      - [ ] Snacks
+        - [ ] Clif bars
+        - [ ] Granola bars
+        - [ ] Energy bars
+        - [ ] Goo
+      - [ ] Water - 1 Gal/Person/Day
+      - [ ] Water tablets/packs (nuun/crystal light or something similar in case water doesn't taste great).
+      - [ ] Adult Beverages
+      - [ ] Coffee
+      - [ ] Gatorade
+      - [ ] Apples
+      - [ ] Bananas
+    - ** Other **
+      - [ ] Packable Backpack
